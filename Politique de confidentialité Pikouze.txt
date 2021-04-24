@@ -1,0 +1,8 @@
+Politique de confidentialité
+J'ai créé cette application à but non lucratif afin de permettre aux étudiants infirmiers de pouvoir s'entraîner dans leur révisions
+Les données enregistrées se situe sur le site https://console.firebase.google.com, elles ne seront utilisées à aucune fin si ce n'est pour supprimer un compte, bloquer un compte ou aider à changer un mot de passe,
+Les données sont privées, personnes à part moi-même n'a accès à ces données
+
+Merci de votre confiance,
+Amandine Cerdan
+Développeuse Mobile Android de l'application Pikouze Quiz Infirmiers
